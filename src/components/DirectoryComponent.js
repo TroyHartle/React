@@ -19,6 +19,12 @@ class Directory extends Component {
                 },
                 {
                     id: 2,
+                    name: 'Washington Birthday Marathon',
+                    date: 'February 20, 2022',
+                    location: 'Greenbelt, MD'
+                },
+                {
+                    id: 3,
                     name: 'Wilmington Marathon',
                     date: 'February 26, 2022',
                     location: "Wrightsville Beach, NC"
