@@ -10,7 +10,7 @@ class Main extends Component {
         const directory = this.state.races.map(race => {
             return (
                 <div className="col">
-                    <h2>{race.name}</h2>
+                    <p>{race.name}</p>
                     <p>{race.location}</p>
                 </div>
             );

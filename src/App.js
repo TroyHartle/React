@@ -12,7 +12,11 @@ class App extends Component {
             <div className="container">
                 <div className="row">
                     <div className="col">
-                        <h1>Upcoming United States Races</h1>
+                        <table>
+                            <thead>
+                                <h1 style={{textAlign: "center"}}>UPCOMING UNITED STATES RACES</h1>
+                            </thead>
+                        </table>
                     </div>
                 </div>
             </div>
